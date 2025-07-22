@@ -29,7 +29,7 @@ Changelog:
     - 2025-02-15: Cleaned up code, removed unnecessary plt.close() and comments.
     - 2025-02-18: Expanded analysis range; disabled .eps output for easier file management.
     - 2025-03-06: Implemented hemisphere-initialized code (radius = 0.3m).
-    - 2025-05-22: Fixed energy and velocity issues; improved 4-panel plots. (Ensure correct mass
+    - 2025-05-22: Fixed energy and velocity issues; improved 4-panel plots. (Ensure correct mass is used for calculations.)
 """
 date = datetime.datetime.today().strftime("%Y-%m-%d")
 
