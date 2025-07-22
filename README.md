@@ -2,6 +2,8 @@
 
 Charged Particle Trajectory Simulation and analysis in a magnetic Diverter field
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16331909.svg)](https://doi.org/10.5281/zenodo.16331909)
+
 ## Overview
 
 CPTSamD is a Python package for simulating and analyzing the trajectories of charged particles (such as electrons, protons, and antiprotons) in the presence of complex magnetic field geometries, such as those produced by magnetic diverters. The code is designed for scientific research, including detector design, hit rate analysis, and visualization of particle motion.
