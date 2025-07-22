@@ -415,7 +415,7 @@ def function45(timestep, variables_array):
     ----------
     timestep : float
         The current time step in the simulation.
-        NOTE: This parameter is not used in the function but is required by the `solve_ivp` 
+        NOTE: This parameter is not used in the function but is required by the `solve_ivp`
         function.
     variables_array : array-like
         An array containing the current position and velocity of the particle.
